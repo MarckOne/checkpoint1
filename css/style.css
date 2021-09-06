@@ -1,0 +1,34 @@
+h1 {
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+}
+
+body {
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Lobster+Two:ital@1&display=swap');
+    background-image: url(../img/Eu-amo-Salto.jpg);
+    background-size: cover;
+
+}
+.titulo {
+border: white solid 1px;
+color: white;
+text-align: center;
+padding: 0px 10px 0px 10px;
+}
+
+h2,li, p {
+color: white
+}
+
+img {
+height: 40px;
+width: 40px;
+}
+
+.img1 {
+    position: absolute;
+}
+
+.img2 {
+    position: absolute;
+    left: 1860px;
+}
